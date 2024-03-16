@@ -1,0 +1,5 @@
+HOST_MYSQL       = "192.168.200.6"
+DB_MYSQL         = "dw_qqprm"
+USER_MYSQL       = "root"
+PORT_MYSQL       =  3310
+PASSWORD_MYSQL   = "root"
